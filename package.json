@@ -1,0 +1,31 @@
+{
+  "name": "fm-sync-workspaces",
+  "version": "1.0.0",
+  "description": "A helper script for syncing Bitbucket repositories between workspaces.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karaeren/fm-sync-workspaces.git"
+  },
+  "keywords": [
+    "bitbucket",
+    "git",
+    "sync",
+    "automation",
+    "repository"
+  ],
+  "author": "Eren Kara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karaeren/fm-sync-workspaces/issues"
+  },
+  "homepage": "https://github.com/karaeren/fm-sync-workspaces#readme",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0"
+  }
+}
