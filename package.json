@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karaeren/fm-sync-workspaces.git"
+    "url": "git+https://github.com/FeatureMind/fm-sync-workspaces.git"
   },
   "keywords": [
     "bitbucket",
@@ -21,9 +21,9 @@
   "author": "Eren Kara",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/karaeren/fm-sync-workspaces/issues"
+    "url": "https://github.com/FeatureMind/fm-sync-workspaces/issues"
   },
-  "homepage": "https://github.com/karaeren/fm-sync-workspaces#readme",
+  "homepage": "https://github.com/FeatureMind/fm-sync-workspaces#readme",
   "dependencies": {
     "axios": "^1.9.0",
     "dotenv": "^16.5.0"

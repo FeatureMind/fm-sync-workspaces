@@ -21,7 +21,7 @@ A command-line tool to sync repositories one-way from a source Bitbucket workspa
 
 1.  Clone & enter directory:
     ```bash
-    git clone https://github.com/karaeren/fm-sync-workspaces.git
+    git clone https://github.com/FeatureMind/fm-sync-workspaces.git
     cd fm-sync-workspaces
     ```
 2.  Install dependencies:
@@ -71,7 +71,7 @@ A command-line tool to sync repositories one-way from a source Bitbucket workspa
 * Review console output/logs for error messages.
 * Verify your `.env` configuration and variable values.
 * Check Bitbucket App Password permissions.
-* For bugs or issues, please [open an issue](https://github.com/karaeren/fm-sync-workspaces/issues) on GitHub.
+* For bugs or issues, please [open an issue](https://github.com/FeatureMind/fm-sync-workspaces/issues) on GitHub.
 
 ## 🤝 Contributing
 
